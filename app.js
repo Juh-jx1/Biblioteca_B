@@ -10,7 +10,7 @@ const SUPABASE_URL = "https://sdbpbwaudeiwdmaqcmlk.supabase.co";
 // Chave pública do projeto
 // Utilize somente a chave pública destinada ao cliente.
 // NÃO coloque aqui a Service Role Key.
-const SUPABASE_ANON_KEY = "sb_publishable_-VxJB3_TuNx4maRgzwP_2w_DnbsI8ZS";
+const SUPABASE_ANON_KEY = "sb_publishable_VEMQV7dpnfJV7mREB9abNw_Tl1LB8vS";
 
 
 // Cria a conexão com o Supabase
